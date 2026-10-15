@@ -121,7 +121,7 @@ Los tres primeros comandos deben mostrar sus versiones. `docker info` debe mostr
 ### Paso 1. Clonar el repositorio
 
 ```powershell
-git clone https://github.com/gpsanchezr/fullstack-docker-task-manager.git
+git clone https://github.com/yeris01/Fullstack-Docker.git
 ```
 
 ### Paso 2. Entrar en la carpeta del proyecto
